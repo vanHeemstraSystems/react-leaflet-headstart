@@ -1,5 +1,5 @@
 {
-  "name": "webui",
+  "name": "leaflet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
