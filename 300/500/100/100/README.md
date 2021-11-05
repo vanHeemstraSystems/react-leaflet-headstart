@@ -17,7 +17,7 @@ Inside the subdirectory /containers/app/ created a new app called '***leaflet***
 ```
 $ cd containers/app
 $ npm init react-app leaflet --use-npm
-$ cd webui
+$ cd leaflet
 ```
 
 You will be prompted as follows:
